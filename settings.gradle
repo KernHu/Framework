@@ -1,0 +1,4 @@
+include ':launcher'
+include ':mvvmhttp'
+include ':app'
+rootProject.name = "Framework"
